@@ -3,7 +3,6 @@
 - 🧑‍💼 Desenvolvedor web a 1 ano e 10 meses.
 - 🔭 Atualmente em busca de uma nova oportunidade como desenvolvedor front-end.
 - 🌱 Estudando React e outros conceitos...
-- 📫 me contate em : joaopaulo.marques99@gmail.com
 
 
 ![Joao1457 GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao1457&show_icons=true&theme=tokyonight)
