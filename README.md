@@ -1,8 +1,8 @@
 ### Olá, sou o João paulo 👋
 
-- 🧑‍💼 Desenvolvedor web a 1 ano e 10 meses.
-- 🔭 Atualmente em busca de uma nova oportunidade como desenvolvedor front-end.
-- 🌱 Estudando React e outros conceitos...
+- 🧑‍💼 Desenvolvedor web a 2 anos.
+- 🔭 Atualmente em busca de uma nova oportunidade como desenvolvedor fullstack.
+- 🌱 Estudando PHP e outros conceitos...
 
 
 ![Joao1457 GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao1457&show_icons=true&theme=tokyonight)
