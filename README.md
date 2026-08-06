@@ -3,10 +3,6 @@
 - 🧑‍💼 Desenvolvedor web a 2 anos.
 - 🌱 Estudando PHP e outros conceitos...
 
-
-![Joao1457 GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao1457&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao1457&layout=compact&theme=tokyonight)
-
 <h1>Tecnologias</h1>
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
