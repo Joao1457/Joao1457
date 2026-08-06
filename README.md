@@ -1,7 +1,6 @@
 ### Olá, sou o João paulo 👋
 
 - 🧑‍💼 Desenvolvedor web a 2 anos.
-- 🔭 Atualmente em busca de uma nova oportunidade como desenvolvedor fullstack.
 - 🌱 Estudando PHP e outros conceitos...
 
 
